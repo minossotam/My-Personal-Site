@@ -1,4 +1,5 @@
 body {
+  widith: 100vw;
   text-align: center;
   margin: 0;
   color: #40514E;
@@ -58,6 +59,7 @@ footer p {
 }
 
 .header-container {
+  widith: 100vw;
   background-color: #EAF6F6;
   padding-top: 100px;
   position: relative;
@@ -155,6 +157,7 @@ footer p {
 }
 
 .footer-container {
+  widith: 100vw;
   background-color:#66BFBF;
   padding: 50px 0 20px;
 }
